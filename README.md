@@ -12,7 +12,8 @@
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **enjarappachinni2001@gmail.com**
--  Know about my experiences **https://chinniproject.netlify.app/**
+-  ![image](https://user-images.githubusercontent.com/99138293/166157742-3a28c7e3-b469-496c-b8a5-0babf2335ccc.png)
+Know about my experiences **https://chinniproject.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
