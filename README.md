@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **enjarappachinni2001@gmail.com**
--  Know about my experiences [https://chinniproject.netlify.app/]
+-  Know about my experiences **https://chinniproject.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
