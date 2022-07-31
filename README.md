@@ -12,8 +12,7 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,React Js,Data Structure Algorithm, React Js**
 
 - 📫 How to reach me **enjarappachinni2001@gmail.com**
-- 
--Know about my experiences (https://chinniproject.netlify.app/) (https://royalbrotherspage.vercel.app/index.html)
+- Know about my experiences (https://chinniproject.netlify.app/) (https://royalbrotherspage.vercel.app/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
