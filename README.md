@@ -8,12 +8,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinni-chinni" alt="chinni-chinni" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## Connect with me:
+
 - 🌱 I’m currently learning **Full Stack Web Development**
-
 - 💬 Ask me about **Data Structure Algorithm,HTML,CSS,Material Ui,JavaScript,React Js,Redux,Node Js,Express,Mongodb**
-
-- 📫 How to reach me **enjarappachinni2001@gmail.com**
+-  📫 How to reach me **enjarappachinni2001@gmail.com**
 - 👨‍💻Know about my experiences  (https://chinniproject.netlify.app/)  (https://royalbrotherspage.vercel.app/index.html) (https://anthropologie1.netlify.app/)
 
 ## Connect with me:
