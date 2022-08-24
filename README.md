@@ -9,10 +9,12 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React Js,Data Structure Algorithm, React Js**
+- 💬 Ask me about **Data Structure Algorithm,HTML,CSS,Material Ui,JavaScript,React Js,Redux,Node Js,Express,Mongodb**
 
 - 📫 How to reach me **enjarappachinni2001@gmail.com**
-- Know about my experiences (https://chinniproject.netlify.app/) (https://royalbrotherspage.vercel.app/index.html)
+- Know about my experiences 
+- (https://chinniproject.netlify.app/) 
+- (https://royalbrotherspage.vercel.app/index.html)
 
 ## Connect with me:
 <p align="left">
