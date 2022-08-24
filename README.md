@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinni</h1>
-
-<img src = "https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"    style =  "max-width: 100%; margin-left: 250px;" />
 <h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
+<img src = "https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"    style =  "max-width: 100%; margin-left: 250px;" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinni-chinni&label=Profile%20views&color=0e75b6&style=flat" alt="chinni-chinni" /> </p>
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about **Data Structure Algorithm,HTML,CSS,Material Ui,JavaScript,React Js,Redux,Node Js,Express,Mongodb**
 
 - 📫 How to reach me **enjarappachinni2001@gmail.com**
-- 👨‍💻Know about my experiences  (https://chinniproject.netlify.app/)  (https://royalbrotherspage.vercel.app/index.html)
+- 👨‍💻Know about my experiences  (https://chinniproject.netlify.app/)  (https://royalbrotherspage.vercel.app/index.html) (https://anthropologie1.netlify.app/)
 
 ## Connect with me:
 <p align="left">
