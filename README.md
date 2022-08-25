@@ -23,9 +23,10 @@
 
 
 ## Connect with me:
+
 <p align="left">
 <a href="https://codepen.io/chinni.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chinni.e" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/chinni-enjarappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chinni-enjarappa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinni-enjarappa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chinni-enjarappa" height="30" width="40" /></a>
 <a href="https://codesandbox.com/chinni .e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="chinni .e" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/enjarappachinni2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="enjarappachinni2001" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/chinni .e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="chinni .e" height="30" width="40" /></a>
